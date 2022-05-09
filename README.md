@@ -1,5 +1,8 @@
 # Adima
-Abuse Detection In Multilingual Audio
+
+This is an official pytorch implementation of our ICASSP 2022 paper [ADIMA: ABUSE DETECTION IN MULTILINGUAL AUDIO](https://arxiv.org/pdf/2202.07991.pdf). In this repository, we provide the dataset and codebase for exploring our work. 
+
+Please visit the [Project Page](https://sharechat.com/research/adima) for more details about the dataset. 
 
 # ADIMA Dataset
 
