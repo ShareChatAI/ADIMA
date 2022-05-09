@@ -1,0 +1,8 @@
+@inproceedings{gupta2022adima,
+  title={ADIMA: Abuse Detection In Multilingual Audio},
+  author={Gupta, Vikram and Sharon, Rini and Sawhney, Ramit and Mukherjee, Debdoot},
+  booktitle={ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={6172--6176},
+  year={2022},
+  organization={IEEE}
+}
